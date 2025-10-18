@@ -7,10 +7,10 @@
 
 This repository contains the source code of **GCRayDiffusion:Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion** (ICCV 2025)
 
-## Contents
-- [x] Training Code 
-- [x] Installation Instructions
-- [x] End-to-End Training Demo
+## Contents (Coming soon)
+- [ ] Training Code 
+- [ ] Installation Instructions
+- [ ] End-to-End Training Demo
 - [ ] Coarse and Fine Tuning Instruction
 
 ## 🔨 Installation
